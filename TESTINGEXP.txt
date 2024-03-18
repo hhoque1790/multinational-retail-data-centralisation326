@@ -1,0 +1,5 @@
+      address longitude  lat locality    store_code  ... opening_date  store_type latitude country_code continent
+index                                                ...                                                         
+0         N/A       N/A  N/A      N/A  WEB-1388012W  ...   2010-06-12  Web Portal     None           GB    Europe
+
+[1 rows x 11 columns]
